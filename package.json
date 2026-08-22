@@ -1,0 +1,25 @@
+{
+  "name": "backend-projects_youtube",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code ",
+  "keywords": [
+    "nodejs",
+    "mongose",
+    "javascript"
+  ],
+  "homepage": "https://github.com/mohibullah-dev-tech/backend-projects-build-youtube#readme",
+  "bugs": {
+    "url": "https://github.com/mohibullah-dev-tech/backend-projects-build-youtube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohibullah-dev-tech/backend-projects-build-youtube.git"
+  },
+  "license": "ISC",
+  "author": "MD.Mohibullah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
