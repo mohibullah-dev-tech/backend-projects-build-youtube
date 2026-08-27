@@ -4,7 +4,6 @@ class ApiResponse {
         this.statusCode = statusCode;
         this.success = statusCode < 400;
         this.message = message;
-        this.errors = errors;
     }
 }
 export default ApiResponse;
